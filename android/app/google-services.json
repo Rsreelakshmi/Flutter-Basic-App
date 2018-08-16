@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954072897228",
+    "firebase_url": "https://flutter-app-1d8cd.firebaseio.com",
+    "project_id": "flutter-app-1d8cd",
+    "storage_bucket": "flutter-app-1d8cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954072897228:android:e88878304db286fe",
+        "android_client_info": {
+          "package_name": "com.example.wordgameapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954072897228-mhcl8oi9c7499tcl3p3nmbhlte630p61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQaRmBa0Wm7_MWZmE_thcC98LwFL8mb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
